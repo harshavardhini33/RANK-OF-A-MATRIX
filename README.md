@@ -27,6 +27,6 @@ c=np.linalg.matrix_rank(A)
 print(c)
 ~~~~
 
-## Output: ![distance](gitmaths.PNG)
+## Output: ![distance](gitmaths.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
